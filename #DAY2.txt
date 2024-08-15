@@ -1,0 +1,31 @@
+#100DayDataScienceJourney: Here I Go!
+
+#DAY2 of the #100DayDataScienceJourney:
+
+
+As part of #DAY2 of the #100DayDataScienceJourney, I've installed both R and R Studio on my windows machine and made an interactive video tutorial, guiding you all through it. 
+
+Find it here: https://youtu.be/C9Wkn9Et1P0?si=101Ank4tpvSwBxjw
+
+Also, you can read my article for a detailed text tutorial on Medium on how to install R & R-Studio and getting your first R-Program compiled on your machine. 
+
+You can find it here: https://medium.com/@sriramsaiteja/introduction-to-r-installation-of-r-and-r-studio-8bb30deb41b7
+
+
+Feel free to follow along on my LinkedIn and GitHub for:
+
+Blog Posts: Detailed breakdowns of key concepts.
+Project Updates: Sharing my progress on mini data projects. ️
+Code Snippets & Resources: Contributing and learning from others.
+
+LINKS: 
+
+#GitHub: https://lnkd.in/gC6_tT_n
+#Medium: https://lnkd.in/gRH2JAZy
+#LinkedIn: https://lnkd.in/gpy24E_E
+
+Let's build something awesome together!
+
+P.S. Do you have any data resources or tips you'd recommend? Share them in the comments!
+
+#dataengineering #datascience #100DaysOfLearning #opentocollaboration #rprogramming #datascience #rstats #coding #learningjourney #dataanalysis #rlanguage #statistics #machinelearning #codinglife #datascientist #dataengineer #programmer #tech #technology #education #lifelonglearning #skilldevelopment
